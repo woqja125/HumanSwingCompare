@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d0a6c28421367474ea98d2f66d219e50
+timeCreated: 1433830330
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SwingPrefab: {fileID: 115046, guid: e88355ed643c5444e9b061e1ee601035, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
